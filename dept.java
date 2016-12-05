@@ -3,6 +3,10 @@ public class dept{
 		System.out.println(1);
 		System.out.println("zhongguo ");
 		Date date=new Date();
+
 		System.out.println("dajiahao");
+
+		System.out.println("hello,nihao");
+
 	}
 }
